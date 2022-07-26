@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Profile</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Profile</div>
+      <div class="header-list">
+        <ul>
+          <li>about</li>
+          <li>bicycle</li>
+          <li></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+        <imag crc="https://www.bannerkoubou.com/image/NVV3nNMieRM8tSn1658710960_1658710985.png">
+        <div class="copy-container">
+            
+        </div>
+    </div>
+    </body>
+
+    </html>
